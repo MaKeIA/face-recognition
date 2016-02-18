@@ -1,6 +1,7 @@
 # face-recognition
 
 En este apartado se definen las entradas y salidas que debe tener la red neuronal para el reconocimiento facial.
+
 Entradas:
    Se tomaran aleatoriamente imagenes con rostros de diferentes puntos de vista. Aproximadamente unas 5 diferentes estilos por cada foto.
    Con el fin de tener una mejor eficiencia al reconocer un rostro. Por cada rostro se hara una extraccion de informacion de la imagen
