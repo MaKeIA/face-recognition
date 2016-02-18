@@ -9,4 +9,4 @@ Entradas:
 
 Salidas:
   Al finalizar todo el proceso se tendra una base donde ya se habra identificado los rostros y cada vez que se muestra cada uno de ello 
-  se sabra de quien es el rostro.
+  se sabra de quien es el rostro mostrando un numero o nombre.
