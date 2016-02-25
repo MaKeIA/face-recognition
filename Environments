@@ -1,16 +1,17 @@
 Accesible:
-	Es accesible, ya que este agente tiene acceso completo al estado del medio ambiente al que está sometido (el rostro humano) todo el 
-	tiempo.
+	Es accesible, ya que este agente tiene acceso completo al estado del medio ambiente al que está sometido (el rostro humano) todo 
+	el tiempo.
 
 Determinista:
-	Es determinista, porque el agente tiene que evaluar cada parte del rostro humano (los ojos, nariz, labios, etc.) para que este pueda
-	aceptarlo como parte de su ambiente y cada uno se tomara como un estado, que al tener todos los rasgos faciales humanos se aceptara.
+	Es determinista, porque el agente tiene que evaluar cada parte del rostro humano (los ojos, nariz, labios, etc.) para que este 
+	pueda aceptarlo como parte de su ambiente y cada uno se tomara como un estado, que al tener todos los rasgos faciales humanos se 
+	aceptara.
 
 Discreto:
-	Es discreto, por la cantidad limitada de aspectos que el agente debe evaluar para poder detectar el rostro humano, por ejemplo todo 
-	humano tiene una boca, una nariz, dos ojos y dos orejas, además de una estructura facial determinada que involucra un mentón, dos 
-	mejillas, dos pómulos y una frente.
+	Es discreto, por la cantidad limitada de aspectos que el agente debe evaluar para poder detectar el rostro humano, por ejemplo 
+	todo humano tiene una boca, una nariz, dos ojos y dos orejas, además de una estructura facial determinada que involucra un 
+	mentón, dos mejillas, dos pómulos y una frente.
 
 No Episódico:
-	Es no episódico, porque este agente tendrá como fin un solo objetivo el cual es “Detectar el rostro humano” y no tendrá algún otro 
-	objetivo que este.
+	Es no episódico, porque este agente tendrá como fin un solo objetivo el cual es “Detectar el rostro humano” y no tendrá algún 
+	otro objetivo que este.
