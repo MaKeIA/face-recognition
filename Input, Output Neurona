@@ -1,0 +1,8 @@
+Las entradas que se le van a dar a la red neuronal va depender de qué tamaño sea la imagen. Un ejemplo es una imagen 5x5 donde 
+las entradas van hacer 25, donde se identificará el rostro de la persona, las características más relevantes de la misma. La 
+normalización de los datos de entrada  para no tener mucha variación se puede  poner una rango de valores dependiendo el número 
+de entradas ya que cada pixel dependiendo del color tiene un código que lo identifica  diferente a otros  o muy mayor. Parte de la 
+normalización es redimensionar las fotos, cambiar las imagenes a una escala estandar para todas las imagenes. 
+
+Las salidas que tendra la red neuronal tien dos opciones, puede llegar a ser un nombre o un numero binario. Con el fin de reconocer que 
+que rostro es el de la imagen. 
