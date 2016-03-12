@@ -30,20 +30,16 @@ Entradas:
    que sea irrelevante, normalizacion de tamaño (para todos los rostros) y metodo de filtrado. 
 
 Salidas:
-  Al finalizar todo el proceso se tendra una base donde ya se habra identificado los rostros y cada vez que se muestra cada uno de ello 
-  se sabra de quien es el rostro mostrando un numero o nombre.
+  Al finalizar todo el proceso se tendra una base donde ya se habra identificado los rostros y cada vez que se muestra cada uno de ello se sabra de quien es el rostro mostrando un numero o nombre.
   
 Ambientes del Sistema
 ======================
 
 Accesible:
-	Es accesible, ya que este agente tiene acceso completo al estado del medio ambiente al que está sometido (el rostro humano) todo 
-	el tiempo.
+	Es accesible, ya que este agente tiene acceso completo al estado del medio ambiente al que está sometido (el rostro humano) todo el tiempo.
 
-Determinista:
-	Es determinista, porque el agente tiene que evaluar cada parte del rostro humano (los ojos, nariz, labios, etc.) para que este 
-	pueda aceptarlo como parte de su ambiente y cada uno se tomara como un estado, que al tener todos los rasgos faciales humanos se 
-	aceptara.
+No Determinista:
+	Es no determinista, porque el agente no realiza una serie de pasos en especifico para reconocer el rostro humano ya que este puede estar desde varios angulos y en diferentes posiciones.
 
 Discreto:
 	Es discreto, por la cantidad limitada de aspectos que el agente debe evaluar para poder detectar el rostro humano, por ejemplo 
